@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TQMS_Admin_Identity_API.props" />
+</Project>
