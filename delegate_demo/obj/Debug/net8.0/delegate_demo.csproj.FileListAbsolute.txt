@@ -1,0 +1,14 @@
+D:\POC\delegate_demo\obj\Debug\net8.0\delegate_demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\POC\delegate_demo\obj\Debug\net8.0\delegate_demo.AssemblyInfoInputs.cache
+D:\POC\delegate_demo\obj\Debug\net8.0\delegate_demo.AssemblyInfo.cs
+D:\POC\delegate_demo\obj\Debug\net8.0\delegate_demo.csproj.CoreCompileInputs.cache
+D:\POC\delegate_demo\bin\Debug\net8.0\delegate_demo.exe
+D:\POC\delegate_demo\bin\Debug\net8.0\delegate_demo.deps.json
+D:\POC\delegate_demo\bin\Debug\net8.0\delegate_demo.runtimeconfig.json
+D:\POC\delegate_demo\bin\Debug\net8.0\delegate_demo.dll
+D:\POC\delegate_demo\bin\Debug\net8.0\delegate_demo.pdb
+D:\POC\delegate_demo\obj\Debug\net8.0\delegate_demo.dll
+D:\POC\delegate_demo\obj\Debug\net8.0\refint\delegate_demo.dll
+D:\POC\delegate_demo\obj\Debug\net8.0\delegate_demo.pdb
+D:\POC\delegate_demo\obj\Debug\net8.0\delegate_demo.genruntimeconfig.cache
+D:\POC\delegate_demo\obj\Debug\net8.0\ref\delegate_demo.dll

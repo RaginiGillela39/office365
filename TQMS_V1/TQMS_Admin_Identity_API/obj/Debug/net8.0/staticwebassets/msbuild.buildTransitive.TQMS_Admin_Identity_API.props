@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\TQMS_Admin_Identity_API.props" />
-</Project>
